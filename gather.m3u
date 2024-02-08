@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="·4K",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="·4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="·4K",影视 4K「移动」
+http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="·4K",欢笑剧场4K
+https://tv.iill.top/migu/hxjc
+#EXTINF:-1 group-title="IPV6·4K",8K测试「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 group-title="IPV6·4K",爱上4K 「IPV6」
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="IPV6·4K",4K 修复「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·4K",SiTV欢笑剧场4K 「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="null" group-title="IPV6·4K",华数4K「IPV6」
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv3.png" group-title="IPV6·央视",CCTV3 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" group-title="IPV6·央视",CCTV16 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="IPV6·央视",CCTV4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="IPV6·央视",CCTV8K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="IPV6·央视",CCTV1「IPV6」
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001022/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" group-title="IPV6·央视",CCTV2「IPV6」
@@ -120,9 +150,9 @@ http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001031/index.m3u8?lov
 #EXTINF:-1 tvg-name="凤凰香港" group-title="IPV6·数字",凤凰香港「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" group-title="IPV6·数字",第一财经「IPV6」
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001017/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPV6·数字",金鹰纪实「IPV6」
